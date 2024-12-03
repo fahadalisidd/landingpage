@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="header">
+        <div class="headerimg"><img src="images/starbukslogo.png"></div>
+        <div class="headerlist">
+            <h3>Home</h3>
+            <h3>Menu</h3>
+            <h3>What's New</h3>
+            <h3>Contact</h3>
+        </div>
+    </div>
+    <div class="mid">
+        <div class="midtext">
+            <p>Its not just a</p>
+            <p>Coffee</p>
+            <p>Its<p style="color:#017143">Starbucks</p>
+            <div class="midcont">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor modi</p>
+                <p>consequatur nulla, fugit odit rerum quaerat illo at! Nihil velit tempore</p>
+                <p>debitis. Doloribus quasi perspiciatis fuga nulla aspernatur necessitatibus</p>
+                <p>adipisci.</p>
+            </div>
+        </div>    
+        <div class="midgreen">
+            <div class="midimg">
+                <img src="images/smooth.png">
+            </div>
+                <div class="socials">
+                    <img src="images/facebooklogo.png"> 
+                    <img src="images/instagramlogo.png"> 
+                    <img src="images/twitterlogo.png">
+                </div>
+        </div> 
+    </div>   
+    <button class="buttonsubmit">learn more</button>
+    <ul class="shakes">
+        <img src="images/smoothone.png" class="img1">
+        <img src="images/smooth2.png" class="img2">
+        <img src="images/smooth3.png" class="img3">
+    </ul>
+</body>
+</html>
