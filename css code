@@ -1,0 +1,137 @@
+*{
+    max-height:120vh;
+}
+.header{
+    display: flex;
+    justify-content: space-between  ;
+    height:100px;
+    width:100%;
+    /* border:1px black solid */
+}
+.headerimg{
+    height:80px;
+    width:80px;
+    margin-top: 20px;
+}
+.headerimg img{
+    height:80px;
+    width:80px;
+}
+.headerlist{
+    height: 50px;
+    width:400px ;
+    margin-top:50px;
+    display: flex;
+    justify-content: space-between;
+}
+.headerlist p{
+
+    font-size: 16px;
+    font-weight:bolder ;
+    font-style: normal;
+    line-height: normal;
+    color: rgb(51,51,51);
+} 
+.mid{
+    height:570px;
+    width: 100%;
+    /* border: 1px black solid; */
+    display: flex;
+}
+.midtext{
+    height:300px;
+    width: 700px;
+    /* border:1px black solid; */
+    display: flex;
+    flex-direction: column;
+    margin: 100px;
+
+}
+.midtext p{
+    font-size: 64px;
+    font-family: 'poppins';
+    font-weight: 700;
+    font-style: normal;
+    line-height: normal;
+    color:rgba(51,51,51);
+    margin: 10px;
+}
+.midimg{
+    margin-left:40px;
+    height:400px;
+    width: 300px;
+    /* border:1px black solid; */
+}
+.midimg img{
+    height:450px;
+    width: 300px;
+    transition: 0.4s ease-in 0.1s;
+}
+
+.midgreen{
+    margin-top: 100px;
+    height:700px;
+    width: 1200px;
+    /* border:1px black solid; */
+    background-color: #017143;
+    border-top-left-radius:100%;
+}
+.midcont{
+    margin-top: 50px;
+    height: 100px;
+    width:500px;
+    /* border: 1px black solid; */
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+}
+.midcont p{
+    margin: 0px;
+    font-size: 17px;
+    font-weight:normal ;
+    font-style: normal;
+    line-height: normal;
+    color: black;
+}
+.buttonsubmit{
+    margin-top: 20px;
+    margin-left:100px;
+    width: 120px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: #017143;
+    border: #017143;
+    color: white;
+    font-size: 16px;
+}
+ul img{
+    transition: 0.4s ease-in 0.1s;
+}
+img:hover{
+    transform: scale(1.3);
+}
+.shakes{
+    margin:0px auto;
+    margin-left: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin: 20px    ;
+}
+.socials{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    margin-bottom: 400px;
+    margin-left: 400px;
+    /* border: 1px black solid; */
+    width: 50px;
+}
+.socials img{
+    height: 20px;
+    width: 20px;
+    margin: 20px;
+    background-color: #017143;
+    margin-bottom: 20px;
+}
+
