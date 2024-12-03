@@ -16,6 +16,11 @@
             <h3>Contact</h3>
         </div>
     </div>
+    <div class="socials">
+        <img src="images/facebooklogo.png"> 
+        <img src="images/instagramlogo.png"> 
+        <img src="images/twitterlogo.png">
+    </div>
     <div class="mid">
         <div class="midtext">
             <p>Its not just a</p>
@@ -32,11 +37,6 @@
             <div class="midimg">
                 <img src="images/smooth.png">
             </div>
-                <div class="socials">
-                    <img src="images/facebooklogo.png"> 
-                    <img src="images/instagramlogo.png"> 
-                    <img src="images/twitterlogo.png">
-                </div>
         </div> 
     </div>   
     <button class="buttonsubmit">learn more</button>
